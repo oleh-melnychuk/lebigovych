@@ -1,0 +1,1 @@
+!function(o,t){o.config={root:"/",pushState:!0}}(RM);

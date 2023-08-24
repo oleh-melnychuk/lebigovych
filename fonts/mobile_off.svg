@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="15px" viewBox="0 0 22 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>checkbox off</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="End-page-2018-mob" transform="translate(-278.000000, -524.000000)" fill="#808080" fill-rule="nonzero">
+            <g id="Form" transform="translate(0.000000, 263.000000)">
+                <g id="privacy" transform="translate(21.000000, 254.000000)">
+                    <g id="checkbox" transform="translate(257.000000, 0.000000)">
+                        <path d="M14.3137085,18.3137085 L14.3137085,2.8137085 C14.3137085,1.98528137 14.9852814,1.3137085 15.8137085,1.3137085 C16.6421356,1.3137085 17.3137085,1.98528137 17.3137085,2.8137085 L17.3137085,19.3137085 L17.3137085,19.8137085 C17.3137085,20.6421356 16.6421356,21.3137085 15.8137085,21.3137085 L6.8137085,21.3137085 C5.98528137,21.3137085 5.3137085,20.6421356 5.3137085,19.8137085 C5.3137085,18.9852814 5.98528137,18.3137085 6.8137085,18.3137085 L14.3137085,18.3137085 Z" id="checkbox-off" transform="translate(11.313708, 11.313708) rotate(-315.000000) translate(-11.313708, -11.313708) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
